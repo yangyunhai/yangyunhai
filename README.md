@@ -1,11 +1,10 @@
 ### 仓库历史信息
 <!--
-
-![](https://github-readme-stats.vercel.app/api?username=yangyunhai)
-
 **yangyunhai/yangyunhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+![](https://github-readme-stats.vercel.app/api?username=yangyunhai)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
