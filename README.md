@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 
 ### 仓库历史信息
 ![](https://github-readme-stats.vercel.app/api?username=yangyunhai&theme=dark)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yangyunhai)](https://github.com/anuraghazra/github-readme-stats)
